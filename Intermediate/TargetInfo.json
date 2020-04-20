@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MultiplayerGame",
+			"Path": "Z:\\DEV\\Unreal\\MultiplayerGame\\Source\\MultiplayerGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MultiplayerGameEditor",
+			"Path": "Z:\\DEV\\Unreal\\MultiplayerGame\\Source\\MultiplayerGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

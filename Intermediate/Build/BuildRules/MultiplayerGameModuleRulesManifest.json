@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"Z:\\DEV\\Unreal\\MultiplayerGame\\Source\\MultiplayerGame\\MultiplayerGame.Build.cs",
+		"Z:\\DEV\\Unreal\\MultiplayerGame\\Source\\MultiplayerGame.Target.cs",
+		"Z:\\DEV\\Unreal\\MultiplayerGame\\Source\\MultiplayerGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.3"
+}
