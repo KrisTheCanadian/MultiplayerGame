@@ -54,4 +54,14 @@
       <Filter>Source\MultiplayerGame</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\MultiplayerGame\MovingPlatform.h">
+      <Filter>Source\MultiplayerGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\MultiplayerGame\MovingPlatform.cpp">
+      <Filter>Source\MultiplayerGame</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
